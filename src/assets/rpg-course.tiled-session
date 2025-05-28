@@ -3,17 +3,31 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "durotar.json",
     "expandedProjectPaths": [
+        "."
     ],
     "fileStates": {
+        "durotar.json": {
+            "scale": 1.2104,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 461.41771315267687,
+                "y": 332.9477858559154
+            }
+        },
+        "durotar.json#tiles": {
+            "scaleInDock": 1
+        }
     },
     "last.imagePath": "/home/husseinovi4/projects/rpg-course/src/assets",
     "map.lastUsedFormat": "json",
     "openFiles": [
+        "durotar.json"
     ],
     "project": "rpg-course.tiled-project",
     "recentFiles": [
+        "durotar.json"
     ],
     "tileset.embedInMap": true,
     "tileset.spacing": 1
